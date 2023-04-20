@@ -3,9 +3,9 @@
 
 - 🚀 Software Developer
 
-- 🔭 I'm currently working at [Gonçalves Salles S/A Ind. Com. (Laticínios Aviação)](https://www.laticiniosaviacao.com.br/) 
+- 🔭 I'm currently working at [TOTVS SA](https://www.laticiniosaviacao.com.br/](https://www.totvs.com/sobre/)) 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Angular, C# .NET, PLSQL, Node.JS**
 
 
 <br><br>
